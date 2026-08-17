@@ -1,0 +1,13 @@
+{
+  "name": "neo-chat",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.5",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "svg-captcha": "^1.4.0",
+    "cookie": "^0.6.0"
+  }
+}
